@@ -1,4 +1,5 @@
-# VLSI-LAB-EXPERIMENTS
+# EXP-1
+# DATE:13/02/24
 # AIM: 
 To simulate and synthesis Logic Gates,Adders and Subtractor using vivado 2023.2.
 
